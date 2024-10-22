@@ -15,12 +15,6 @@ If you want to say hi, feel free to reach out to me at 📫 hi@paractmol.cc
 
 ## 🔭 𝙼𝚢 𝚙𝚊𝚜𝚝 𝚐𝚒𝚐𝚜:
 
-<!-- * I've developed services to transfer movies 🎬, experimenting with the delivery of vast amounts of data via a P2P network for cinemas in production. I've employed Amazon EC2 instances to convert movies, upload them to S3, and shut down the workers once the process is complete — long before it became mainstream. 🐥
-* I implemented a black box test environment to run regression tests for 🏦 banking web services.
-* I created an architecture to render NFT images on the e-ink display with Raspberry Pi, Pimoroni Inky pHAT and Python.
-* I built an architecture to convert text to Morse code by blinking an LED on Raspberry Pi Zero. Read more [here](https://web.archive.org/web/20230205202806/https://fadein.xyz/posts/2021-04-29-morsecipher-architecture/).
- -->
-
 * I developed services to transfer movies 🎬, experimenting with the delivery of large amounts of data via a P2P network for cinemas. I utilized Amazon EC2 instances to convert movies, upload them to S3, and shut down the workers once the process was complete — long before it became mainstream. 🐥
 * I implemented a black box testing environment to run regression tests for 🏦 banking web services.
 * I created an architecture to render NFT images on an e-ink display using Raspberry Pi, Pimoroni Inky pHAT, JS, Elixir and Python.
